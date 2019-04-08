@@ -47,10 +47,10 @@ bc {
 ::-webkit-scrollbar-thumb {
     background: #000;
 }
-
+/* 
 #troll{
     text-align: center;
-}
+} */
 
 .far,
 .fab.fa-dev,
@@ -82,4 +82,9 @@ footer {
     margin-right: auto;
     box-sizing: border-box;
     max-width: 960px;
+}
+
+#header{
+    margin-top: 10px;
+    /* text-align: center; */
 }
