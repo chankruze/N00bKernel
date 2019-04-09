@@ -84,6 +84,10 @@ footer {
     max-width: 960px;
 }
 
+.footer .float-left{
+    margin-top: 10px;
+}
+
 #header{
     margin-top: 10px;
     /* text-align: center; */
