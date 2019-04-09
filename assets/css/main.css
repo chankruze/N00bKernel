@@ -16,23 +16,6 @@ body::-webkit-scrollbar {
     width: 0px;
 }
 
-r {
-    font-style: normal;
-    color: #f00;
-}
-
-g {
-    color: #0e0;
-}
-
-blue {
-    color: #00f;
-}
-
-bc {
-    color: #000;
-}
-
 ::-webkit-scrollbar {
     display: block;
     width: 10em;
