@@ -85,10 +85,12 @@ footer {
     margin-right: auto;
     box-sizing: border-box;
     max-width: 960px;
+    background: #FFF;
 }
 
 .footer .float-left{
     margin-top: 10px;
+    margin-left: 15px;
 }
 
 #header{
